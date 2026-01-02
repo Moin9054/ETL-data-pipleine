@@ -1,0 +1,143 @@
+{
+  "total_movies": 244,
+  "avg_rating": 7.34,
+  "avg_popularity": 50.68,
+  "total_votes": 1350145,
+  "movies_by_category": {
+    "top_rated": 95,
+    "popular": 51,
+    "popular,trending": 47,
+    "trending": 46,
+    "top_rated,trending": 3,
+    "popular,top_rated,trending": 2
+  },
+  "movies_by_rating": {
+    "Excellent": 131,
+    "Good": 89,
+    "Average": 19
+  },
+  "top_genres": {
+    "Drama": 109,
+    "Action": 72,
+    "Thriller": 59,
+    "Adventure": 53,
+    "Comedy": 50,
+    "Fantasy": 44,
+    "Romance": 38,
+    "Animation": 37,
+    "Crime": 37,
+    "Science Fiction": 36
+  },
+  "top_languages": {
+    "en": 162,
+    "ja": 24,
+    "ko": 11,
+    "es": 9,
+    "zh": 7
+  },
+  "generated_at": "2025-12-29T10:41:56.964950",
+  "top_10_rated_movies": [
+    {
+      "title": "The Shawshank Redemption",
+      "vote_average": 8.714,
+      "release_year": 1994
+    },
+    {
+      "title": "The Godfather",
+      "vote_average": 8.685,
+      "release_year": 1972
+    },
+    {
+      "title": "I Am Frankelda",
+      "vote_average": 8.593,
+      "release_year": 2025
+    },
+    {
+      "title": "The Godfather Part II",
+      "vote_average": 8.571,
+      "release_year": 1974
+    },
+    {
+      "title": "Schindler's List",
+      "vote_average": 8.565,
+      "release_year": 1993
+    },
+    {
+      "title": "12 Angry Men",
+      "vote_average": 8.549,
+      "release_year": 1957
+    },
+    {
+      "title": "Spirited Away",
+      "vote_average": 8.533,
+      "release_year": 2001
+    },
+    {
+      "title": "The Dark Knight",
+      "vote_average": 8.525,
+      "release_year": 2008
+    },
+    {
+      "title": "Dilwale Dulhania Le Jayenge",
+      "vote_average": 8.515,
+      "release_year": 1995
+    },
+    {
+      "title": "The Green Mile",
+      "vote_average": 8.5,
+      "release_year": 1999
+    }
+  ],
+  "top_10_popular_movies": [
+    {
+      "title": "Avatar: Fire and Ash",
+      "popularity": 566.3934,
+      "vote_average": 7.386
+    },
+    {
+      "title": "B\u0101hubali: The Epic",
+      "popularity": 423.4017,
+      "vote_average": 7.6
+    },
+    {
+      "title": "Zootopia 2",
+      "popularity": 389.5293,
+      "vote_average": 7.6
+    },
+    {
+      "title": "Five Nights at Freddy's 2",
+      "popularity": 382.4791,
+      "vote_average": 6.888
+    },
+    {
+      "title": "The Great Flood",
+      "popularity": 356.2063,
+      "vote_average": 6.184
+    },
+    {
+      "title": "Risqu\u00e9",
+      "popularity": 283.7352,
+      "vote_average": 4.3
+    },
+    {
+      "title": "Muzzle: City of Wolves",
+      "popularity": 267.7385,
+      "vote_average": 6.889
+    },
+    {
+      "title": "Now You See Me: Now You Don't",
+      "popularity": 265.7944,
+      "vote_average": 6.543
+    },
+    {
+      "title": "The Old Woman with the Knife",
+      "popularity": 264.2672,
+      "vote_average": 6.56
+    },
+    {
+      "title": "Omniscient Reader: The Prophecy",
+      "popularity": 236.2393,
+      "vote_average": 6.671
+    }
+  ]
+}
